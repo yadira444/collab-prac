@@ -1,8 +1,18 @@
 .container {
-    align-content: center;
-    background-color: aqua;
+    
 }
 
 nav {
     background-color: aqua;
+}
+
+.card {
+    background-color: blue;
+    height: 200px;
+    
+}
+
+.red {
+    background-color: red;
+    height: 200px;
 }
